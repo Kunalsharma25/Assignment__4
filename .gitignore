@@ -1,0 +1,22 @@
+# API Keys & Secrets
+.env
+*.env
+
+# Python junk
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+asg_4m/
+
+# Project Data (Evaluators should generate their own)
+output/
+creators.db
+*.log
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store

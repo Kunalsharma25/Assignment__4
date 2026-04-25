@@ -1,0 +1,18 @@
+keywords:
+  - "python tutorials India"
+  - "coding tutorials for beginners"
+  - "tech education YouTube channel"
+  - "computer science tutorials"
+  - "programming tutorials India"
+
+brand:
+  name: "CodeLaunch"
+  industry: "education"
+  offering: "Interactive coding courses for school students focused on Python, AI, and logical thinking."
+  target_audience: "Students aged 12–18 interested in coding and technology."
+
+outreach:
+  email_from: "growth@codelaunch.com"
+  send_emails: false
+  send_dms: false
+  daily_email_limit: 50
